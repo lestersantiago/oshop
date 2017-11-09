@@ -3,9 +3,13 @@
     "",
     "\\src",
     "\\src\\app",
+    "\\src\\app\\admin",
+    "\\src\\app\\admin\\admin-products",
+    "\\src\\app\\admin\\product-form",
     "\\src\\app\\bs-navbar",
-    "\\src\\app\\login"
+    "\\src\\app\\login",
+    "\\src\\app\\models"
   ],
-  "SelectedNode": "\\src\\app\\login\\login.component.html",
+  "SelectedNode": "\\src\\app\\admin\\product-form\\product-form.component.html",
   "PreviewInSolutionExplorer": false
 }
